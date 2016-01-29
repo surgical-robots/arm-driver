@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother HL-2140 series
+TargetPrinter=HP Color LaserJet 4650 PS Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -59,7 +59,7 @@ OutputEnabled2_OutputMedium3=3
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777218~1,16842751~1,16973835~1,16973833~1,16973831~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777218~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908301~1,16908303~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
 OutputType3=NC Drill
 OutputName3=NC Drill Files
 OutputCategory3=Fabrication
@@ -107,9 +107,9 @@ Configuration5_Item3=Supplier Part Number 1=True
 Configuration5_Name4=OutputConfigurationParameter1
 Configuration5_Item4=??
 Configuration5_Name5=SortOrder
-Configuration5_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration5_Item5=Footprint=Down
 Configuration5_Name6=VisibleOrder
-Configuration5_Item6=Comment=240|Description=86|Designator=86|Footprint=86|LibRef=86|Quantity=86|Supplier Part Number 1=80
+Configuration5_Item6=Comment=171|Description=189|Designator=189|Footprint=189|LibRef=189|Quantity=189|Supplier Part Number 1=178
 OutputType6=PCB 3D Print
 OutputName6=PCB 3D Print
 OutputCategory6=Documentation
@@ -163,7 +163,7 @@ MarkNetLabels2=1
 MarkPortsId2=1
 GenerateTOC=1
 ShowComponentParameters2=1
-OutputFilePath3=C:\Users\jay.SKYNET\Documents\MC2\Projects\TATRC\Control2\PCB\REV B\
+OutputFilePath3=C:\ownCloud\Documents\MC2\Projects\TATRC\Control2\PCB\REV C\
 ReleaseManaged3=1
 OutputBasePath3=
 OutputPathMedia3=
@@ -217,7 +217,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\jay.SKYNET\Documents\MC2\Projects\TATRC\Control2\PCB\REV B\
+RelativeOutputPath3=C:\ownCloud\Documents\MC2\Projects\TATRC\Control2\PCB\REV C\
 OpenOutputs3=0
 AddToProject3=1
 TimestampFolder3=0
